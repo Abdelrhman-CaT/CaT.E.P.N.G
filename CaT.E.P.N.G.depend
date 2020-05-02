@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1588417717 source:e:\tests\c++ projects\cat.e.p.n.g\main.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+	<fstream>
+
